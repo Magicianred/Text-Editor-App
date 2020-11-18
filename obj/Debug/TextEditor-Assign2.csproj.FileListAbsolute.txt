@@ -1,0 +1,13 @@
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\bin\Debug\TextEditor-Assign2.exe.config
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\bin\Debug\TextEditor-Assign2.exe
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\bin\Debug\TextEditor-Assign2.pdb
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor-Assign2.csprojAssemblyReference.cache
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor_Assign2.LoginForm.resources
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor_Assign2.Properties.Resources.resources
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor-Assign2.csproj.GenerateResource.cache
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor-Assign2.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor-Assign2.exe
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor-Assign2.pdb
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor_Assign2.NewUserForm.resources
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor_Assign2.TextEditorForm.resources
+C:\Users\Cody\Desktop\App.Net\TextEditor\TextEditor-Assign2\obj\Debug\TextEditor_Assign2.AboutForm.resources
